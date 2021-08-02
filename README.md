@@ -1,6 +1,10 @@
 # JsonMap
 ###### A simple Map with additional useful methods that stores its data in a JSON file
 
+## Deprecation Warning
+This package is deprecated and is likely going to be deleted at some time.
+Please use [map.db](https://github.com/GalaxyVinci05/map.db) instead.
+
 ### What is it?
 As said above, JsonMap is a data storage system that works with a plain and simple JavaScript **Map**, with some additional useful methods, some of which are inspired by the [Discord.js Collection](https://github.com/discordjs/collection) library and the [Enmap](https://github.com/eslachance/enmap) library, and it stores all of its data in a JSON file in order to load the Map's data again when initialized.
 
